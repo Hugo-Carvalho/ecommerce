@@ -1,0 +1,57 @@
+.login-container {
+    text-align: center;
+    min-height: 91vh;
+    display: flex;
+}
+
+
+.login-content {
+    background: #fff;
+    box-shadow: 0 1px 11px rgba(0, 0, 0, 0.27);
+    border-radius: 2px;
+    width: 500px;
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    padding: 35px;
+}
+
+.full-body{
+    background: url(../../imagens/background.jpg) center no-repeat;
+    background-size: cover;
+    background-color: #000;
+    background-attachment: fixed;
+}
+
+.signup-link {
+    color: rgba(0, 0, 0, 0.65);
+    font-size: 14px;
+}
+
+.login-title {
+    font-size: 1.5em;
+    font-weight: 500;
+    margin-top: 0;
+    margin-bottom: 30px;
+    color: rgba(0, 0, 0, 0.65);
+}
+
+.formulario{
+    text-align: left;
+}
+
+.formulario input{
+    margin-bottom: 15px;
+}
+
+.formulario button{
+    background-color: black;
+    color: white;
+    margin-top: 10px;
+}
+
+.formulario button:hover{
+    background-color: rgba(0, 0, 0, 0.589);
+    color: white;
+    margin-top: 10px;
+}

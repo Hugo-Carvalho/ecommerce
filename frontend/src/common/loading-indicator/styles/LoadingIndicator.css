@@ -1,0 +1,14 @@
+.loading-container {
+    margin-top: 30px;
+    text-align: center;
+    min-height: 80vh;
+    display: flex;
+}
+
+.loading-content {
+    width: 500px;
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;    
+    padding: 35px;
+}
